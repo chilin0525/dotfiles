@@ -2,7 +2,10 @@
 
 ## tmix
 
-TBD.
+* reload config file:
+	```
+	$ tmux source-file ~/.tmux.conf
+	```
 
 ## nvim
 
