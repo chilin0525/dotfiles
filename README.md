@@ -15,6 +15,11 @@ TBD.
     ```
     $ apt install neovim
     ```
+* put config into correct path:
+  ```
+  $ mkdir ~/.config
+  $ cp -r nvim ~/.config
+  ```
 * plugin manager: [vim plug](https://github.com/junegunn/vim-plug)
   * install:
     ```
