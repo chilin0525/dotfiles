@@ -26,6 +26,7 @@
 * put config into correct path:
   ```
   $ mkdir ~/.config
+  $ cd dotfiles
   $ cp -r nvim ~/.config
   ```
 * plugin manager: [vim plug](https://github.com/junegunn/vim-plug)
