@@ -45,5 +45,20 @@
   : CocInstall coc-pylsp
   : CocInstall coc-sh
   ```
-* plugins
-  * []()
+
+## command
+
+* tmux:
+  * prefix: ````
+  * if want to type ```` , just type twice ````
+* nerdtree:
+  * switch pane: `<Ctrl>+w` + left/right/top/down key
+  * open file in vertical: `i`
+  * open file in horizental: `s`
+  * next tab: `gt`
+  * previous tab: `gT`
+  * open file in new tab: `t`
+* nerdcommenter:
+  * comment: `\` + `cc`
+  * uncomment: `\` + `cu`
+
