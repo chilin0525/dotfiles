@@ -6,6 +6,10 @@
 	```
 	$ tmux source-file ~/.tmux.conf
 	```
+* reorder window:
+	```
+	tmux movew -r
+	```
 
 ## nvim
 
